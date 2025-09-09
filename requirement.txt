@@ -1,0 +1,17 @@
+pandas
+numpy
+langchain 
+langchain-community
+langchain-core
+streamlit
+langchain
+pypdf
+sentence-transformers
+faiss-cpu
+pymupdf
+hf-xet
+chromadb
+langchain-huggingface
+langchain-ollama
+streamlit
+gradio
